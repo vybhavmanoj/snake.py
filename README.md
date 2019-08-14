@@ -1,2 +1,2 @@
 # snake.py
-clone of old snake game in python
+Implementation of snake and apple game using the pygame module in python .
